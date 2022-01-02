@@ -1,0 +1,8 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+git init
+git status
+git clone
+git add -a
+git commit -m "Colocar mensagem"
+git push origin main
